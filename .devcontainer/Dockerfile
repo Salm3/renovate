@@ -1,4 +1,4 @@
-FROM ghcr.io/containerbase/node:18.18.2
+FROM ghcr.io/containerbase/node:20.8.1
 
 USER root
 
